@@ -73,12 +73,12 @@ base to 500,000 users across Canada, following the increased adoption of its low
 has grown its headcount to 250 employees and intends to hire 150 more staff following the completion of its January 2022 Series D funding round. 
 
 * Core metrics that companies in this domain use include:
- (i) Average user growth.
-(ii) Average revenue per user (ARPU).
-(iii) Cost or gross profit per new user.
-(iv) Marketing expenditure growth. 
-(v) Total expenditure growth rate. 
-(vi) Client acquisition costs. 
+ Average user growth.
+ Average revenue per user (ARPU).
+ Cost or gross profit per new user.
+ Marketing expenditure growth. 
+ Total expenditure growth rate. 
+ Client acquisition costs. 
 
 It is difficult to compare KOHO’s performance relative to its closest Canadian peer, Neo Financial, as the latter only started operations in 2019 and has not disclosed its 
 user numbers. Further, neither KOHO nor Neo Financial publicly disclose their financial statements as unlisted companies. 
