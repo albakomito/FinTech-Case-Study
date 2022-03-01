@@ -59,9 +59,12 @@ flexibility, by allowing them to transact on their mobile devices at any time, r
    * Increased collaboration between FinTech disruptors and traditional service providers: For example, PayPal’s 2018 acquisition of Zettle, Fiserv’s 2019 merger with First Data 
 and Visa’s  abandoned 2020 acquisition of Plaid. 
  
-* The global Payments/Billings domain is comprised of hundreds of companies. However, the domain’s major players include Wise, Remitly, Stripe (which offers payment processing 
-for eCommerce websites), Circle ( a peer-to -peer payments firm), Braintree (now a PayPal subsidiary), and Clover Network (a cloud-based Point of Sale platform, now owned by 
-Fiserv). 
+* The global Payments/Billings domain is comprised of hundreds of companies. However, the domain’s major players include:
+  * Wise and Remitly (global foreign exchange remittances)
+  * Stripe (which offers payment processing for eCommerce websites)
+  * Circle ( a peer-to -peer payments firm)
+  * Braintree (now a PayPal subsidiary), and 
+  * Clover Network (a cloud-based Point of Sale platform, now owned by Fiserv). 
 
 ## Results 
 * Business impact: While KOHO was incorporated in 2014, it only commenced operations in 2017. Since then, its most notable business impact has been the growth of its account 
