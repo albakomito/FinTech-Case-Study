@@ -44,26 +44,28 @@ Oracle Sales Cloud or SugarCRM (Forbes, 2019). While we do not have information 
    *	Significant growth in mobile or online payments: This has been driven by rapid growth in eCommerce transactions in developed markets (Europe and North America), and by 
 the proliferation of mobile phones in emerging markets (Asia and Africa). The mobile/online payments market experienced a surge in activity in 2020/2021, due to robust 
 transaction volumes, following the reduction of in-person retail and dining activity during the COVID-19 pandemic. Globally, McKinsey estimates that mobile/online payments growth will decelerate to around 6% annually by 2025, due to slower growth in emerging markets. 
-   *	Artificial Intelligence & Machine Learning: Companies in the Payments/Billing domain have increasingly used AI to detect fraud and automate processes (codete.com, 2021). 
-From an innovation standpoint,  some companies in this domain (specifically  banks) have started using AI and Machine Learning to predict future customer spending by 
+   *	Artificial Intelligence (AI) & Machine Learning: Companies in the Payments/Billing domain have increasingly used AI to detect fraud and automate processes (codete.com, 2021). From an innovation standpoint,  some companies in this domain (specifically  banks) have started using AI and Machine Learning to predict future customer spending by 
 analyzing specific trends in their historical data, which allows them to recommend a customer-specific product (e.g., a new type of card with more favourable fees/points/benefits or more flexible payment terms).  
+
    * Mobile commerce: According to codete.com (2021) the average person uses their mobile phone for four hours per day. This trend has been monetized by social media apps 
-(Twitter, Facebook, Instagram, and Weibo), that have partnered with third party retailers to include a “buy” function on their mobile apps. As a result, tens of thousands of 
-retailers (including smaller or medium-size  enterprises) are now able to significantly grow their revenues by  selling their products directly to consumers on their favourite 
+(Twitter, Facebook, Instagram, and Weibo), that have partnered with third party retailers to include a 'buy' function on their mobile apps. As a result, tens of thousands of 
+retailers (including smaller or medium-sized  enterprises) are now able to significantly grow their revenues by  selling their products directly to consumers on their favourite 
 social media platform. 
+
    * Increased Cross-border transactions: Given increased immigration and the need for immigrant populations to remit funds to their relatives in their home country, FinTech 
 companies like Remitly, Wise (previously Transfer Wise) and Send have been leaders in offering fast offshore currency remittances (usually 1-2 days) for no or very low fees, 
 at a more favourable exchange rate than the banks (who currently charge a spread of 3.1% on foreign currency transactions) or traditional remittance agencies like Western Union. These FinTech remittance processors also offer their customers added flexibility, by allowing them to transact on their mobile devices at any time, rather than visiting a bank/remittance agency during office hours. 
-   * Increased collaboration between FinTech disruptors and traditional service providers: This has largely been achieved through Merger and Acquisition ('M&A') activity, for example, PayPal’s 2018 acquisition of Zettle, Fiserv’s 2019 merger with First Data and Visa’s failed 2020 bid to acquire Plaid. 
+
+   * Increased collaboration between FinTech disruptors and traditional service providers: This has largely been achieved through Merger and Acquisition (M&A) activity, for example, PayPal’s 2018 acquisition of Zettle, Fiserv’s 2019 merger with First Data and Visa’s failed 2020 bid to acquire Plaid. 
  
-* The global Payments/Billings domain is comprised of hundreds of companies. However, the domain’s major players include:
+* The global Payments/Billings domain is comprised of hundreds of companies, and its major players include:
   * Wise and Remitly (global foreign exchange remittances)
   * Stripe (which offers payment processing for eCommerce websites)
   * Circle ( a peer-to -peer payments firm)
   * Braintree (now a PayPal subsidiary)
-  * Clover Network (a cloud-based Point of Sale or 'POS' platform, now owned by Fiserv)
-  * BillGo (a bill management and payment platform used by north of 30 million consumers and thousands of financial institutions. 
-  * SpotOn Transact (a POS platform for vendors in the retail, dining, hospitality, events and vehicle repair sectors).   
+  * Clover Network (a cloud-based Point of Sale/POS platform, now owned by Fiserv)
+  * BillGo (a bill management and payment platform used by north of 30 million consumers and thousands of financial institutions) 
+  * SpotOn Transact (a POS platform for vendors in the retail, dining, hospitality, events and vehicle repair sectors)   
   * Billd (a platform that links building contractors with thousands of suppliers and processes payments for both sides, like Uber)
   * Checkout.com ( a cloud-based payment platform that processes up to 150 currencies) 
   * AffiniPay ( a platform allowing clients to instantly pay service providers in the accounting and legal professions). 
@@ -87,6 +89,7 @@ user numbers. Further, neither KOHO nor Neo Financial publicly disclose their fi
 ## Recommendations 
 * To give KOHO an edge over Neo Financial or potential future competitors, I would advise the corporation to offer the following additional products/services: 
   * Offshore remittances for the immigrant community (this would be especially popular in a country like Canada, given the federal government's target to admit some 1.3m new immigrants by 2024). 
+  
   * The ability for new customers to sign up for any of KOHO’s existing or new services on its ‘GetKOHO’ Instagram page (and Facebook equivalent), similar to how social media 
 users can purchase goods from their favourite store’s social media page. 
 
