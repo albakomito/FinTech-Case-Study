@@ -66,7 +66,7 @@ at a more favourable exchange rate than the banks (who currently charge a spread
   * SpotOn Transact (a POS platform for vendors in the retail, dining, hospitality, events and vehicle repair sectors).   
   * Billd (a platform that links building contractors with thousands of suppliers and processes payments for both sides, like Uber)
   * Checkout.com ( a cloud-based payment platform that processes up to 150 currencies) 
-  * Affinipay ( a platform allowing clients to instantly pay service providers in the accounting and legal professions). 
+  * AffiniPay ( a platform allowing clients to instantly pay service providers in the accounting and legal professions). 
 
 ## Results 
 * Business impact: While KOHO was incorporated in 2014, it only commenced operations in 2017. Since then, its most notable business impact has been the growth of its account 
